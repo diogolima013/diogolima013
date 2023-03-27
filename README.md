@@ -16,6 +16,8 @@
   <img align="center" alt="Diogo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+<hr>
+
 Apaixonado por tecnologia e tudo que ela pode proporcionar! Louco de café!
 
 <br/>
