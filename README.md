@@ -6,6 +6,8 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolima013&layout=compact&langs_count=7&theme=dark"/>
 </div
 
+
+
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display:block"><br/>
