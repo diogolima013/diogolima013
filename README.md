@@ -9,6 +9,8 @@
 
 
 ## Tecnologias que uso no meu dia a dia
+  
+  <br>
 
 <div style="display:block"><br/>
  <img align="center" alt="Diogo-HTML" height="40" width="40"
